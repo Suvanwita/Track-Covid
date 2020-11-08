@@ -1,0 +1,24 @@
+.jumbotron{
+    background-image: linear-gradient(to bottom,rgb(26, 92, 214),rgb(185, 7, 255));
+    color:rgb(231, 201, 245);
+    
+}
+.jumbotron h1{
+    font-weight: 500;
+}
+.tab-content, .ques{
+    margin:20px;
+    padding: 20px;
+}
+.nav,.tab-content,.ques{
+    box-sizing: border-box;
+    z-index: 1;
+    box-shadow:rgb(58, 124, 230) 5px 4px 6px 3px;
+}
+.nav{
+    width:97%;
+    margin-left: 1.6%;
+}
+.body{
+background-color: rgb(188, 110, 240);
+}
